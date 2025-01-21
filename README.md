@@ -9,7 +9,7 @@ I'm a frontend developer who loves react!
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [makeshjsdev@gmail.com](mailto:makeshjsdev@gmail.com)
 *   🚀  I'm currently working on [Recipe App](http://recipe.com)
-*   🧠  I'm learning React
+*   🧠  I'm learning nodejs
 *   🤝  I'm open to collaborating on Projects
 *   ⚡  Shhh don't tell anyone but I'm training to be Batman.
 
